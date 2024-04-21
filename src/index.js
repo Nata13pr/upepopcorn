@@ -2,9 +2,10 @@ import React, {useState} from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import StarRating from "./components/StarRating";
-// import App from './components/App';
+ // import App from './components/App';
 // import App from './components/App-v1';
-import App from './components/App-v2';
+// import App from './components/App-v2';
+import App from './components/App-v3';
 import reportWebVitals from './reportWebVitals';
 
 function Test(){
